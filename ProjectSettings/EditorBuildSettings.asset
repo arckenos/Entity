@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/AlienFinal.unity
+    guid: ff1ef67a4f1491a40a60825db6a88438
+  - enabled: 1
+    path: Assets/Scenes/FinalGato.unity
+    guid: e9de3938417f6674d94f0c8514216a4a
+  - enabled: 1
+    path: Assets/Scenes/FotografoFinal.unity
+    guid: f5bc6e8cbe01eb745902a78687c7b61c
+  - enabled: 1
+    path: Assets/Scenes/PescadorFinal.unity
+    guid: c1c4a19d8926a5b4db3b704905b27b49
+  - enabled: 1
+    path: Assets/Scenes/PintoFinal.unity
+    guid: 7261be92ed2f5f949a61626f26d1cec2
+  - enabled: 1
+    path: Assets/Scenes/PezFinal.unity
+    guid: a670c53497fb7e14883eca2d89beabdb
+  m_configObjects: {}

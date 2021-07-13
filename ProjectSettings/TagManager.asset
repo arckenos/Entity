@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Room
+  - Ver
+  - Tomar
+  - Quemar
+  - Slot
+  - Scripter
+  - Vista
+  - FotoM
+  - FotoMar
+  - Foto
+  - FotoPesca
+  - FotoEspacio
+  - Orejitas
+  - Camara
+  - Atun
+  - Aleta
+  - Sal
+  - Lapiz
+  - Pincel
+  - Cana
+  - FotoGato
+  - Cuadro
+  - CuadroMar
+  - Cosa
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BackGround
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 3068869359
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 2484189687
+    locked: 0
