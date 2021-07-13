@@ -1,5 +1,5 @@
 # Entity
-Juego Entity
-Controles  
+Juego Entity 
+### Controles  
   - WASD 
   - Mouse
