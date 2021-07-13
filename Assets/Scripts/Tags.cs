@@ -21,7 +21,7 @@ public class Tags : MonoBehaviour
     public int pescadorPoints = 4;
     public int fotografoPoints = 5;
     public int alienPoints = 3;
-    int hogueraPoints = 6;
+    public int hogueraPoints = 6;
 
     // Start is called before the first frame update
     void Start()
